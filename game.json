@@ -1,0 +1,9 @@
+{
+	"name": "AlpenEngine",
+	"version": 2,
+	"saveID": "testSave",
+	"author": "Michael Warner",
+	"summary": "Not your average dungeoncrawler",
+	"resolution": "1600x900",
+	"main": "scripts/main.js"
+}
